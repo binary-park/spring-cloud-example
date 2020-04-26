@@ -1,10 +1,10 @@
-package io.github.wyparks2.springcloudexample;
+package io.github.wyprks2.configserver;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringCloudExampleApplicationTests {
+class ConfigServerApplicationTests {
 
   @Test
   void contextLoads() {

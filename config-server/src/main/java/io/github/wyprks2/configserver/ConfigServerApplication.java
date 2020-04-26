@@ -1,13 +1,13 @@
-package io.github.wyparks2.springcloudexample;
+package io.github.wyprks2.configserver;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringCloudExampleApplication {
+public class ConfigServerApplication {
 
   public static void main(String[] args) {
-    SpringApplication.run(SpringCloudExampleApplication.class, args);
+    SpringApplication.run(ConfigServerApplication.class, args);
   }
 
 }
